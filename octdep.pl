@@ -3,7 +3,6 @@
 # Octave dependency check
 # Copyright (C) 2014 Alex J. Grede
 # GPL v3, See LICENSE.txt for details
-# This function is part of SAMIS (https://github.com/agrede/SAMIS)
 
 use warnings;
 use strict;
