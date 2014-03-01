@@ -2,7 +2,7 @@
 
 # Octave dependency check
 # Copyright (C) 2014 Alex J. Grede
-# GPL v3, See LICENSE.txt for details
+# GPL v3, See LICENSE for details
 
 use warnings;
 use strict;
